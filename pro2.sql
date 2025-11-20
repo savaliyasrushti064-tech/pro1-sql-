@@ -1,13 +1,13 @@
 -- DATA TRANSFORMER
 
 -- DROP DATABASE
-drop database d;
+drop database abc;
 
 -- CREATE DATABASE
-create database d;
+create database abc;
 
 -- USE OF DATABASE
-use d;
+use abc;
 
 -- CREATE TABLES
 CREATE TABLE Customers (
